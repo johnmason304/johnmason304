@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **jmv3productions@gmail.com**
 
-- 📄 Know about my experiences [jmv3productions.com](jmv3productions.com)
+- 📄 Know about my experiences [https://www.jmv3productions.com/](https://www.jmv3productions.com/)
 
 - ⚡ Fun fact **I work for JMU's Marching Band Media Team**
 
