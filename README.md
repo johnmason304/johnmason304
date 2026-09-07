@@ -2,6 +2,8 @@
 
 <h3 align="center">Media Arts & Design Student at James Madison University</h3>
 
+![Project Screenshot](images/jmv3productions-logo.png "Screenshot of the app")
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=johnmason304&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views">
 </p>
