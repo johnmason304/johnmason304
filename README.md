@@ -22,7 +22,7 @@ My interests combine **technology, media, photography, design, and digital conte
 
 ---
 
-## 🌐 My Work
+## My Work
 
 ### JMV3 Productions
 
@@ -40,7 +40,7 @@ Photography galleries featuring events, performances, and other projects.
 
 ---
 
-## 📫 Contact
+## Contact
 
 - **Email:** jmv3productions@gmail.com
 - **Website:** <a href="https://www.jmv3productions.com/">JMV3 Productions</a>
