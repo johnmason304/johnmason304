@@ -2,7 +2,9 @@
 
 <h3 align="center">Media Arts & Design Student at James Madison University</h3>
 
-![Project Screenshot](images/jmv3productions-logo.png "JMV3 Productions LOGO" width="400")
+<figure>
+  <img src="images/jmv3productions-logo.png" alt="JMV3 Productions LOGO" width="400">
+</figure>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=johnmason304&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views">
