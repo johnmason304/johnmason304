@@ -41,18 +41,6 @@ Photography galleries featuring events, performances, and other projects.
 
 ---
 
-## 🛠️ Tools
-
-<p align="left">
-
-<a href="https://www.adobe.com/products/illustrator.html" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Adobe Illustrator" width="40" height="40"/>
-</a>
-
-</p>
-
----
-
 ## 📫 Contact
 
 - **Email:** jmv3productions@gmail.com
@@ -79,6 +67,18 @@ Photography galleries featuring events, performances, and other projects.
 
 <a href="https://www.youtube.com/c/jmv3productions" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40"/>
+</a>
+
+</p>
+
+---
+
+## 🛠️ Tools
+
+<p align="left">
+
+<a href="https://www.adobe.com/products/illustrator.html" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Adobe Illustrator" width="40" height="40"/>
 </a>
 
 </p>
