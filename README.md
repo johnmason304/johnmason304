@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johnmason304&label=Profile%20views&color=0e75b6&style=flat" alt="johnmason304" /> </p>
 
-<p align="left"> <a href="https://twitter.com/jmv3productions" target="blank"><img src="https://img.shields.io/twitter/follow/jmv3productions?logo=twitter&style=for-the-badge" alt="jmv3productions" /></a> </p>
-
 - 📫 How to reach me **jmv3productions@gmail.com**
 
 - 📄 Know about my experiences [jmv3productions.com](jmv3productions.com)
