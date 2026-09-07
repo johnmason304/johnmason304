@@ -3,7 +3,8 @@
 <h3 align="center">Media Arts & Design Student at James Madison University</h3>
 
 <figure>
-  <img src="images/jmv3productions-logo.png" alt="JMV3 Productions LOGO" width="400">
+  <div align="center">
+  <img src="images/jmv3productions-logo.png" alt="JMV3 Productions LOGO" width="100">
 </figure>
 
 <p align="center">
