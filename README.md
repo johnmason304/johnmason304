@@ -48,7 +48,7 @@ Photography galleries featuring events, performances, and other projects.
 
 ---
 
-## 🔗 Connect With Me
+## Connect With Me
 
 <p align="left">
 <a href="https://twitter.com/jmv3productions" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jmv3productions" height="30" width="40" /></a>
@@ -59,7 +59,7 @@ Photography galleries featuring events, performances, and other projects.
 
 ---
 
-## 🛠️ Tools
+## Tools
 
 <p align="left">
 
