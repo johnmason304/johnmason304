@@ -77,5 +77,5 @@ Photography galleries featuring events, performances, and other projects.
 ---
 
 <p align="center">
-  <i>Creating, designing, documenting, and building.</i>
+  <i>Making Memories that Last a Life Time.</i>
 </p>
