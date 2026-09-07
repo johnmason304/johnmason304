@@ -16,7 +16,6 @@ My interests combine **technology, media, photography, design, and digital conte
 
 - 🎓 Studying Media Arts and Design at James Madison University
 - 📸 Photographer and media creator
-- 💻 Interested in web development and digital technology
 - 🎥 Experienced in media and content production
 - 🥁 Work with the **JMU Marching Band Media Team**
 - 🚀 Creator of **JMV3 Productions** and **JMV3 Galleries**
